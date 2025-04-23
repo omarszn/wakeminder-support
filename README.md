@@ -14,7 +14,7 @@ WakeMinder is a cross-platform productivity app that helps you stay focused by d
 ### 🛠 Need Help?
 For support, feature requests, or bug reports, please email:
 
-📧 [support@wakeminder.app](mailto:support@wakeminder.app)
+📧 [support@wakeminder.app](mailto:omar.szn@outlook.com)
 
 If you don't have a custom domain, replace with your GitHub email.
 
