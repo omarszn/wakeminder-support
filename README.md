@@ -16,8 +16,6 @@ For support, feature requests, or bug reports, please email:
 
 📧 [omar.szn@outlook.com](mailto:omar.szn@outlook.com)
 
-If you don't have a custom domain, replace with your GitHub email.
-
 ---
 
 Thank you for using WakeMinder!
