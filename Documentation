@@ -1,0 +1,92 @@
+📘 WakeMinder – User Guide & Documentation
+
+Welcome to WakeMinder, your second brain that activates the moment your Mac wakes up. This guide will help you get started, use key features, and get the most from the app across all your Apple devices.
+
+🚀 Download WakeMinder
+
+WakeMinder is available on iPhone, Mac, and Apple Watch:
+🔗 Download on the App Store (Mac + iOS):
+👉 https://apps.apple.com/ae/app/wakeminder/id6744974871
+
+🖥️ Mac Setup
+
+1. Download WakeMinder from the App Store (Link above)
+2. Open the app and sign in with iCloud – this is required for syncing and communication between your devices.
+3. Enable “Launch at Login” (recommended)
+   - Click the WakeMinder icon in the menu bar → Preferences → Enable “Launch at Login”
+4. That’s it! The app will now quietly run in your menu bar, ready to trigger reminders and links the moment your Mac wakes up.
+
+📱 iPhone Setup
+
+1. Download WakeMinder from the App Store (Link above)
+2. Open the app. You’ll see a simple text box.
+3. Type your reminder or paste a link, then tap “Send to Mac.”
+4. iCloud sync happens automatically in the background.
+
+Pro tip: Add the Lock Screen Widget for fast access:
+- Long-press your iPhone Lock Screen → Tap “Customize”
+- Add the WakeMinder widget for one-tap access
+
+⌚ Apple Watch Setup (Optional)
+
+1. Ensure the WakeMinder Watch app is installed.
+2. Use voice-to-text to quickly dictate a reminder.
+3. Tap “Send to Mac” to deliver it instantly, or queue it to appear the next time your Mac wakes up.
+
+🌐 Sharing Links from iPhone to Mac
+
+1. On your iPhone, open Safari or another browser.
+2. Tap the Share icon → Select WakeMinder from the share sheet.
+3. WakeMinder will:
+   - Open the link immediately on your Mac if it’s awake
+   - Or automatically open it on the next wake-up
+
+Use this for:
+- Notion pages
+- Google Docs or Sheets
+- Zoom links, videos, or research tabs
+- Anything you want ready and waiting
+
+⏰ Reminder Scheduling Options
+
+You can schedule:
+- On Mac Wake
+- In 1 hour / 2 hours / 3 hours
+- Tomorrow
+- In X Days
+- Custom Date & Time
+
+Reminders sync via iCloud and appear on all devices.
+
+🧩 Features Overview
+
+| Feature                  | Description |
+|--------------------------|-------------|
+| Mac Wake Reminders       | Pop up instantly when your Mac wakes |
+| Auto-Launch Links        | Share from iPhone → Auto-open on Mac |
+| iCloud Sync              | Keeps everything in sync seamlessly |
+| Lock Screen Widget       | Quickly add reminders without unlocking |
+| Apple Watch Input        | Speak your reminder, send instantly |
+| Clean UI                 | No clutter, no distraction — just what you need |
+
+🧠 Real-World Use Cases
+
+- At the grocery store and remember a task? Share a doc or reminder to WakeMinder, and it opens automatically when you’re back at your Mac.
+- Middle of the night thought? Dictate a reminder from your Watch — it'll pop up first thing in the morning.
+- See a useful link while browsing on iPhone? Share it and let WakeMinder auto-open it next time your Mac wakes.
+
+🛠️ Troubleshooting
+
+Reminders or links not appearing?
+- Make sure WakeMinder is open and running in the Mac menu bar
+- Confirm you’re signed into iCloud on all devices with the same Apple ID
+- Ensure “Launch at Login” is enabled on Mac
+
+Link not opening instantly?
+- WakeMinder only launches links when the Mac is awake and the app is running
+- Otherwise, it queues the link for your next wake-up
+
+💬 Need Help?
+
+Support Email: omar.szn@outlook.com
+Feel free to reach out — I’m happy to help and open to all feedback.
